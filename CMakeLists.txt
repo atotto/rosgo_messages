@@ -14,7 +14,6 @@ rosgo_generate_messages(
   diagnostic_msgs
   gateway_msgs
   geometry_msgs
-  map_store
   move_base_msgs
   nav_msgs
   rocon_app_manager_msgs
